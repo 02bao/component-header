@@ -1,0 +1,30 @@
+/* Search.css */
+.header-research {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 10px;
+  }
+  
+  .header-research input {
+    border: none;
+    padding: 5px;
+    width: 100%;
+    outline: none;
+  }
+  
+  .header-research button {
+    background-color: #ee4d2d;
+    border: none;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .header-research button:hover {
+    background-color: #d83b1d;
+  }
+  

@@ -1,0 +1,21 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ee4d2d;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Cách nhau một khoảng cách */
+    max-width: 1000px; /* Giới hạn chiều rộng tối đa */
+    margin: 0 auto; /* Canh giữa theo chiều ngang */
+    padding: 0 20px; /* Khoảng cách giữa các phần tử con */
+  }
+  
+  /* Các phần tử con (Logo, Navigation, Search, Cart) có thể có CSS riêng để tùy chỉnh giao diện */
+  
